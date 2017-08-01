@@ -138,6 +138,13 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>twitter</id>
+            <url>http://maven.twttr.com</url>
+        </repository>
+    </repositories>
+
     <build>
         <extensions>
             <extension>
